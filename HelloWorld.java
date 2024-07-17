@@ -25,7 +25,7 @@ public class HelloWorld {
         boolean dadoBoolean = false;
 
         if (dadoInt == 15) {
-            // sysout é basicamente o printf do Python, por exemplo. Exibe o texto no
+            // sysout é basicamente o printf do Python (Sem pular linhas), por exemplo. Exibe o texto no
             // terminal
             System.out.println("O dadoInt é igual a 15.");
         } else if (dadoInt == 10) {
