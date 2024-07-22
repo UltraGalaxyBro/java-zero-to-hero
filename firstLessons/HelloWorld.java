@@ -1,3 +1,4 @@
+package firstLessons;
 /*
  * HelloWorld == O nome da classe
  * public == Tipo de acesso da classe. Nesse caso quer dizer que é acessível por todo o projeto

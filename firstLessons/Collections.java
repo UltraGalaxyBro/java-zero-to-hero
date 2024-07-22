@@ -1,3 +1,4 @@
+package firstLessons;
 import java.util.HashMap;
 import java.util.Map;
 
