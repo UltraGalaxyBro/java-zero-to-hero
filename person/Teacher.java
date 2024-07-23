@@ -11,4 +11,9 @@ public class Teacher extends Person {
     public double getWage() {
         return wage;
     }
+
+    String PrintDataFromPerson(){
+        System.out.println(super.PrintDataFromPerson());
+        return "Temos um professor nesse caso!";
+    }
 }

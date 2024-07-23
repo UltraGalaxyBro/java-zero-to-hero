@@ -10,4 +10,10 @@ public class Student extends Person {
     public String getRegistration() {
         return registration;
     }
+//polimorfismo no método 
+    String PrintDataFromPerson(){
+        //mantendo o procedimento do método na classe pai, que no caso é Pessoa e então continua com o comportamento específico
+        System.out.println(super.PrintDataFromPerson());
+        return "Temos um aluno nesse caso!";
+    }
 }
