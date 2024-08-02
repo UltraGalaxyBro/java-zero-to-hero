@@ -10,7 +10,7 @@ public class HelloWorld {
      * ao invés de uma instância passada, por exemplo
      * void == É o tipo de retorno que o método deve ter. No caso ao ser executado o
      * método, não retornará nada
-     * main == Sinalizando ao JAV que é o ponto de partida do programa
+     * main == Sinalizando ao JAVA que é o ponto de partida do programa
      * String [] args == São basicamnete os argumentos que desejo receber no meu
      * método
      */
